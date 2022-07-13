@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=surawut-jirasaktavee&show_icons=true&theme=gotham" alt="surawut-jirasaktavee" />
+
+ **Technologies, Tools, and Languages**
+  
+ Cloud provider
+  
+ ![](https://raw.githubusercontent.com/Rishit-dagli/Rishit-dagli/master/badges/azure.png)
