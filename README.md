@@ -2,7 +2,7 @@
 
 **I'm Surawut!**
 
-I'm currently working on Telco company. I'm currently a Data Engineer. I have experimented to worked with Computer vision. I have interested in Data Science, Big data. I'm currently learning about MLOps in [MLOps-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) with DataTalk club
+I'm currently working on a Telco company. I'm currently a Data Engineer. I have experimented to work with Computer vision. I have interested in Data Science, Big data. I'm currently learning about MLOps in [MLOps-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) with the DataTalk club
 
 **How to reach me**: 
 LinkedIN: https://www.linkedin.com/in/surawut-jirasaktavee/
