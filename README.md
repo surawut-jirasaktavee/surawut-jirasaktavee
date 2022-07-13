@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/](https://www.linkedin.com/in/surawut-jirasaktavee/">
+<a href="[https://www.linkedin.com/in/abhisheknaiidu/](https://www.linkedin.com/in/surawut-jirasaktavee/)">
   <img align="left" alt="Surawut's LINKEDIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/petertheha
 n/master/assets/linkedin.svg" />
 </a>
