@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**I'm Surawut!
+
 <!--
 **surawut-jirasaktavee/surawut-jirasaktavee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="[https://www.linkedin.com/in/abhisheknaiidu/](https://www.linkedin.com/in/surawut-jirasaktavee/)">
-  <img align="left" alt="Surawut's LINKEDIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/petertheha
-n/master/assets/linkedin.svg" />
-</a>
-U
 
 📈 my github stats
 
