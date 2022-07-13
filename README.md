@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://www.linkedin.com/in/abhisheknaiidu/](https://www.linkedin.com/in/surawut-jirasaktavee/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/petertheha
+n/master/assets/linkedin.svg" />
+</a>
+
+
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=surawut-jirasaktavee&show_icons=true&theme=gotham" alt="surawut-jirasaktavee" />
