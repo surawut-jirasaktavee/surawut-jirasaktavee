@@ -111,7 +111,7 @@
   
 ###
   
-<h2 align="left">Contact with me</h2>
+<h2 align="left">📭 How to reachs me</h2>
  
 ###
   
@@ -135,7 +135,7 @@
 
 ###
 
-<h2 align="left">Music with me</h2>
+<h2 align="left">🎧🎵 Music</h2>
  
 ###
   
