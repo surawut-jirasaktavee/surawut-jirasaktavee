@@ -12,8 +12,8 @@
 
 <p align="left">📚I'm currently learning about Machine Learning & MLOps.<br>
 ...Some of my <a href="https://github.com/surawut-jirasaktavee/course-mlops-zoomcamp/tree/main/08-project-capstone">MLOps projects</a><br>
-👷Also learning Data Engineering.<br><b>Fun Fucts</b> 🤖🐈:)<br>
-<img align="center" height="150" width="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47h7b45quyekhbrstu7cxu5db7vfxz85rv458hrtcc&rid=giphy.gif&ct=g"/>
+👷Also learning Data Engineering.<br><b>Fun Fucts</b> 🤖🐈 <strong>:)<strong><br>
+<img height="150" width="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47h7b45quyekhbrstu7cxu5db7vfxz85rv458hrtcc&rid=giphy.gif&ct=g"/>
 </p>
 
 ###
