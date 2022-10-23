@@ -111,6 +111,10 @@
   
 ###
   
+<h2 align="left">Contact with me</h2>
+ 
+###
+  
 <div align="left">
   <a href="http://discordapp.com/users/882619111283232769" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -131,6 +135,10 @@
 
 ###
 
+<h2 align="left">Music with me</h2>
+ 
+###
+  
 <div align="center">
   <a href="https://spotify-recently-played-readme.vercel.app/api?user=31ah7lpccvaazobgz2h3uh2ewupq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ah7lpccvaazobgz2h3uh2ewupq&count=5&unique=True" alt="Spotify recently played"  />
