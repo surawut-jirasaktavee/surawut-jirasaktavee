@@ -14,13 +14,16 @@
 ...Some of my <a href="https://github.com/surawut-jirasaktavee/course-mlops-zoomcamp/tree/main/08-project-capstone">MLOps projects</a><br>
 👷Also learning Data Engineering.<br>Fun Fucts<br>
 <img align="left" height="150" width="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47h7b45quyekhbrstu7cxu5db7vfxz85rv458hrtcc&rid=giphy.gif&ct=g"/>
-</p><br>
+</p>
+
+###
 
 ###
 
 <h2 align="left">My Github Stats</h2>
 
 ###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=surawut-jirasaktavee" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=surawut-jirasaktavee" height="150" alt="languages graph"  />
