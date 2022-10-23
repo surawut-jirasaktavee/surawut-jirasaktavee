@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚I'm currently learning about Machine Learning & MLOps<br></p>
+<p align="left">📚I'm currently learning about Machine Learning & MLOps<br>   ...Some of my projects see(https://github.com/surawut-jirasaktavee/course-mlops-zoomcamp/tree/main/08-project-capstone)</p>
 
 ###
 
