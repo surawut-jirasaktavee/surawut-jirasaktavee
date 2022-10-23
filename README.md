@@ -53,6 +53,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" width="42" alt="tensorflow logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original-wordmark.svg" height="30" width="42" alt="kaggle logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" height="30" widith="42" alt="pytorch logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opencv/opencv-original.svg" height="30" width="42" alt="opencv logo" />
 </div>
 
 ###
@@ -77,6 +79,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="42" alt="azure logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="42" alt="amazonwebservices logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original.svg" height="30" width="42" alt="terraform logo" />
 </div>  
   
 ###  
