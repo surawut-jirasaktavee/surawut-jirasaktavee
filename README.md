@@ -52,6 +52,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" width="42" alt="tensorflow logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original-wordmark.svg" height="30" width="42" alt="kaggle logo" />
 </div>
 
 ###
