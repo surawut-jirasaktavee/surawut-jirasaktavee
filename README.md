@@ -56,7 +56,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/surawut-jirasaktavee/surawut-jirasaktavee/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/surawut-jirasaktavee/surawut-jirasaktavee/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
