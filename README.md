@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">📚I'm currently learning about Machine Learning & MLOps<br>   ...Some of my <a href="https://github.com/surawut-jirasaktavee/course-mlops-zoomcamp/tree/main/08-project-capstone">MLOps projects</a></p>
+<p align="left">📚I'm currently learning about Machine Learning & MLOps.<br>   ...Some of my <a href="https://github.com/surawut-jirasaktavee/course-mlops-zoomcamp/tree/main/08-project-capstone">MLOps projects</a></p>
+<p align="left">👷Also learning Data Engineering.</p>
 
 ###
 
