@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there 👋! My name is Surawut and I'm a Data Engineer, from Thailand 🇹🇭</p>
+<p align="left">Hi there!! 👋 My name is Surawut and I'm a Data Engineer, from Thailand 🇹🇭</p>
 
 ###
 
