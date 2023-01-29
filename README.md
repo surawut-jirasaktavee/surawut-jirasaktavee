@@ -19,9 +19,10 @@
   </a>
 </div>
 
-## GitHub
+## GitHub Activity
 
-<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=surawut-jirasaktavee&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+![Surawut's github stats](https://github-readme-stats.vercel.app/api?username=surawut-jirasaktavee&show_icons=true&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surawut-jirasaktavee&layout=compact&langs_count=8"/>
 
 ![](https://github.com/surawut-jirasaktavee/surawut-jirasaktavee/blob/output/snake.svg)
 
