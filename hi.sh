@@ -10,4 +10,4 @@ do
     done
     echo
     sleep 1
-done < "hi_chat.txt"
+done < "hi.txt"
