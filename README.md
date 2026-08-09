@@ -22,7 +22,7 @@ Software Engineer, 5+ years building data infrastructure at scale. I enjoy distr
 
 ## GitHub Activity
 
-![Surawut's github stats](https://github-readme-stats.vercel.app/api?username=surawut-jirasaktavee&show_icons=true&hide_border=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surawut-jirasaktavee&layout=compact&langs_count=8"/>
+![Surawut's github stats](./profile/stats.svg)
+<img height="180em" src="./profile/top-langs.svg"/>
 
 ![](https://github.com/surawut-jirasaktavee/surawut-jirasaktavee/blob/output/snake.svg)
