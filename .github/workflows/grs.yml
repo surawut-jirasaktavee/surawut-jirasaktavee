@@ -12,6 +12,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: output
 
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2

@@ -22,7 +22,7 @@ Software Engineer, 5+ years building data infrastructure at scale. I enjoy distr
 
 ## GitHub Activity
 
-![Surawut's github stats](./profile/stats.svg)
-<img height="180em" src="./profile/top-langs.svg"/>
+![Surawut's github stats](https://raw.githubusercontent.com/surawut-jirasaktavee/surawut-jirasaktavee/output/profile/stats.svg)
+<img height="180em" src="https://raw.githubusercontent.com/surawut-jirasaktavee/surawut-jirasaktavee/output/profile/top-langs.svg"/>
 
 ![](https://github.com/surawut-jirasaktavee/surawut-jirasaktavee/blob/output/snake.svg)
