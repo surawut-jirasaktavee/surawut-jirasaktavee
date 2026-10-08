@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">premsurawut&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 19, Total Commits  (last year) : 4, Total PRs: 12, Total Issues: 2, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 19, Total Commits  (last year) : 4, Total PRs: 14, Total Issues: 3, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 208.4137055796563;
+        stroke-dashoffset: 206.41705838094632;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >12</text>
+      >14</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >2</text>
+      >3</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >0</text>
+      >2</text>
     </g>
   </g>
     </svg>
